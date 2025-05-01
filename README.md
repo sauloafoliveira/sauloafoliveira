@@ -8,7 +8,7 @@ Sou Dr. em Ciência da Computação (2021) pela Universidade Federal do Ceará (
 - nos Cursos Técnicos de Redes de Computadores e de Informática para Internet, todos no *campus* Tauá.
 
 # Mobilidade acadêmica (🇨🇦 🇵🇹):
-- Em 2024, fui aceite para integrar o INESC TEC _International Visiting Researcher Programme_ (IVRP) - Edição de 2023, no edifício sede do INESC TEC, no Campus da Faculdade de Engenharia da Universidade do Porto, em Portugal 🇵🇹;
+- Em 2024, fui aceito para integrar o INESC TEC _International Visiting Researcher Programme_ (IVRP) - Edição de 2023, no edifício sede do INESC TEC, no Campus da Faculdade de Engenharia da Universidade do Porto, em Portugal 🇵🇹;
 - Em 2019, recebi uma bolsa do programa ELAP (Emerging Leaders American Program) para realizar mobilidade na _École de Technologie Supérieure_ (ETS), em Montréal, Quebéc, Canadá 🇨🇦, que foi interrompida, dois meses após o início, para assumir como docente efetivo no IFCE;
 - Fui bolsista da CAPES no Mestrado (2014-2015) e no Doutorado (2016-2020) 🇧🇷.
        
@@ -29,4 +29,10 @@ Sou Dr. em Ciência da Computação (2021) pela Universidade Federal do Ceará (
 - 02 orientações de iniciação científica (PIBIC); e
 - 01 orientação de iniciação em desenvolvimento tecnológico e inovação (PIBITI).
 
- Ademais, no presente momento, oriento 01 aluno em nível de mestrado.
+ Ademais, no presente momento, oriento 03 alunos em nível de mestrado.
+
+ # Links das disciplinas vigentes
+ - [Aprendizagem Profunda – PPGCC - 2025.1](https://github.com/sauloafoliveira/ppgcc-deep-learning)
+ - [Modelos Generativos Profundos – PPGCC 2025.1](https://github.com/sauloafoliveira/dgm)
+ - [Banco de Dados Não-relacionais – ADS - 2025.1](https://github.com/sauloafoliveira/ifce/nosql)
+ - [Estrutura de Dados – ADS - 2025.1](https://github.com/sauloafoliveira/ifce/ed)
