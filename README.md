@@ -29,7 +29,11 @@ Sou Dr. em Ciência da Computação (2021) pela Universidade Federal do Ceará (
 - 02 orientações de iniciação científica (PIBIC); e
 - 01 orientação de iniciação em desenvolvimento tecnológico e inovação (PIBITI).
 
- Ademais, no presente momento, oriento 03 alunos em nível de mestrado.
+ Ademais, no presente momento, oriento:
+ - 03 alunos em nível de mestrado;
+ - 02 alunos de iniciação científica (PIBIC e BIT);
+ - 01 aluno de iniciação científica júnior (PIBIC JR);
+ - 01 aluno de monitoria (em ADS).
 
  # Links das disciplinas vigentes
  - [Aprendizagem Profunda – PPGCC - 2025.1](https://github.com/sauloafoliveira/ppgcc-deep-learning)
